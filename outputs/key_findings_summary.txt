@@ -1,0 +1,42 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║     NIGERIA DIGITAL PAYMENTS: KEY ANALYTICAL FINDINGS           ║
+║     Data: CBN e-Payment Statistics | Period: 2020–2023          ║
+╚══════════════════════════════════════════════════════════════════╝
+
+FINDING 1 — EXPLOSIVE VOLUME GROWTH, MODERATE VALUE GROWTH
+  • Total transaction volume grew 350% from 10.9B (2020) to 49.4B (2023)
+  • Total transaction value grew only 30%: ₦1,246T → ₦2,241T
+  • Interpretation: Nigeria's digital shift is driven by mass everyday
+    micro-payments (airtime, food, transport) — not large transfers.
+    This signals a maturing consumer fintech market, not just B2B growth.
+
+FINDING 2 — POS TERMINALS ARE THE PHYSICAL FACE OF THE CASHLESS POLICY
+  • POS grew +1,402% in volume: 656M transactions (2020) → 9,847M (2023)
+  • Driven by: naira scarcity (2023), aggressive Moniepoint/OPay deployment
+  • The 2023 naira redesign crisis — intended to reduce cash — inadvertently
+    accelerated POS adoption as the fastest available alternative.
+
+FINDING 3 — MOBILE MONEY OPERATORS (MMO) HAVE ARRIVED AT SCALE
+  • MMO volume grew +1,301%: 769M → 10,775M transactions
+  • By 2023, MMO holds 21.8% of all transaction volume — nearly equal to POS
+  • This validates CBN's agent banking framework as the primary driver
+    of financial inclusion for Nigeria's unbanked population.
+
+FINDING 4 — ATM IS IN STRUCTURAL DECLINE
+  • ATM volume fell -47%: 1,914M (2020) → 1,012M (2023)
+  • ATM value also declined despite inflation — real usage is collapsing
+  • Banks reducing ATM fleets; consumers substituting with POS agents
+  • Recommendation: Banks should redirect ATM CAPEX to digital channels.
+
+FINDING 5 — WEB/INTERNET REMAINS DOMINANT BUT LOSING SHARE
+  • Web/Internet still #1 by volume in 2023 (44.1% share) but fell from 59.5%
+  • By value, Web/Internet is overwhelmingly dominant (₦1,097T of ₦2,241T)
+  • This channel serves high-value B2B, payroll, and e-commerce transfers
+  • Its declining volume share reflects consumer shift — not weakness.
+
+FINDING 6 — 2023 WAS THE INFLECTION YEAR
+  • 2023 saw +107% YoY volume growth — the single largest annual jump
+  • Trigger: CBN naira redesign policy (Feb 2023) caused acute cash shortages
+  • Effect: Forced mass adoption across demographics that had resisted digital
+  • Long-term: Even after cash returned, digital behaviour was retained.
